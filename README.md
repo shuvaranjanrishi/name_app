@@ -1,5 +1,5 @@
 # name_app
-This a children name app with meaning for Bengali Hindu Religious. 
+This is a children name app with meaning for Bengali Hindu Religious. 
 
 used_programming_language: Flutter With Dart
 
